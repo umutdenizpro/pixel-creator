@@ -1,0 +1,7 @@
+{
+  "name": "pixel-creator",
+   "version": "1.3",
+   "description": "Pixel Creator ile pixel resim çiz",
+   "main": "index.html",
+   "canvas": "java"
+}
