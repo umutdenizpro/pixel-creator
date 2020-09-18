@@ -3,7 +3,7 @@ Bu pixel creator sitesinin README.md sidir.
 # Diğerleri
 =
 Geliştiriciler: Umut Deniz, SeCone
-Programlama Dilleri:HTML, css, php, java, json, xml.
+Programlama Dilleri:HTML, css, php, java, json, xml, javascript.
 Çıkış Tarihi: 2020
 
 ---------
